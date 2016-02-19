@@ -1,1 +1,4 @@
-This is a new file
++ Graham Atkinson
++ ![me.jpg]
++ 2018
++ Game bot
